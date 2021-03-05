@@ -1,0 +1,36 @@
+.menu_padre2 {
+    width: 100%;
+    height: 70px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 50px;
+    background: #1b85e5;
+}
+
+.menu_padre2 a {
+    color:white;
+    font-weight: 600;
+}
+
+.logo_pagina2 {
+    height: 60px;
+}
+
+.logo_pagina2 img {
+    width: 140px;
+    height: 60px;
+}
+
+.rutas3 {
+    width: 800px;
+}
+
+.rutas3 a {
+    margin: 0px 12px;
+}
+
+.rutas4 a {
+    margin: 0px 10px;
+}
